@@ -1,0 +1,62 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 2px solid red;*/
+} 
+
+.generator {
+  background-image: linear-gradient(-225deg, #44dd25 0%, #f9fea5 100%);
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(245, 244, 244, 0.863);
+  padding: 90px;
+}
+.generator__header {
+  text-align: center;
+  color: rgb(1, 1, 2);
+  margin-bottom: 20px;
+}
+.generator__password {
+  background-color: #ffffff;
+  padding: 13px 10px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 15px;
+  height: 46px;
+  display: flex;
+  justify-content: space-between;
+}
+.copy__btn {
+  color: rgb(0, 0, 0);
+  background: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+.generator__btn {
+  background: #ffffff;
+  border: none;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  color: rgb(10, 10, 10);
+  border-radius: 30px;
+  font-size: 17px;
+  cursor: pointer;
+}
+.generator__btn:hover {
+  background: #32914a;
+  border: none;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  border-radius: 30px;
+  font-size: 17px;
+  cursor: pointer;
+}
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  margin-bottom: 35px;
+}
