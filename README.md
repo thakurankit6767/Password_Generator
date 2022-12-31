@@ -5,4 +5,5 @@ You can check out the application here [React Password Generator](https://ferven
 
 
 
-![Screenshot (1507)](https://user-images.githubusercontent.com/95959359/210133616-b8aa2107-48b6-4a48-a45a-e4e4ccb78be5.png)
+![Screenshot 2022-12-31 160628](https://user-images.githubusercontent.com/95959359/210133657-48065fb0-5b3b-4c8e-910b-777324d056a3.png)
+
